@@ -1,16 +1,15 @@
-# minesweeper
+# Minesweeper
 
-A new Flutter project.
+Applicazione Android del classico gioco Minesweeper (Campo minato in italiano).
 
-## Getting Started
+Per l'installazione su un dispositivo Android:
 
-This project is a starting point for a Flutter application.
+ - Navigare nella cartella /build/app/outputs/apk/release/
+ - Scaricare il file app-release.apk
+ - Una volta scaricato, aprire il file dalla notifica di scaricamento completato o da un gestore dei file
+ - L'applicazione dovrebbe installarsi automaticamente
 
-A few resources to get you started if this is your first Flutter project:
+## Nota:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Il dispositivo potrebbe rifiutarsi di installare l'applicazione in quanto viene classificata come proveniente da autori/fonti sconosciute.
+Per permettere l'installazione, aprire le impostazioni del dispositivo e cercare la voce "Consenti installazione da fonti sconosciute". 
