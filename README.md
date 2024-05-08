@@ -4,7 +4,6 @@ Applicazione Android del classico gioco Minesweeper (Campo minato in italiano).
 
 Per l'installazione su un dispositivo Android:
 
- - Navigare nella cartella /build/app/outputs/apk/release/
  - Scaricare il file app-release.apk
  - Una volta scaricato, aprire il file dalla notifica di scaricamento completato o da un gestore dei file
  - L'applicazione dovrebbe installarsi automaticamente
